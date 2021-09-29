@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "produto-ms"
+		},
+		{
+			"path": "venda-ms"
+		},
+		{
+			"path": "config-server"
+		},
+		{
+			"path": "zuul-server"
+		},
+		{
+			"path": "eureka-server"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.home": "/usr/lib/jvm/java-11-openjdk-amd64",
+	}
+}
